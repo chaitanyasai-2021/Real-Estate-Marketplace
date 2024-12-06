@@ -1,6 +1,3 @@
-Here’s a README file for your **Real Estate Marketplace** project with placeholders for screenshots:  
-
----
 
 # 🏠 Real Estate Marketplace  
 
